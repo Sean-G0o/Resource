@@ -1,4 +1,5 @@
 <?php
+// 包含随机字符串生成文件
 include 'createRandom.php';
 
 // 创建验证码背景图片
